@@ -1,0 +1,27 @@
+# Unity gerados
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Mm]emoryCaptures/
+
+# Visual Studio / C#
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+# Outros
+packages/
